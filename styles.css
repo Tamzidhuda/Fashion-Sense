@@ -1,0 +1,75 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+.container {
+    margin-top: 50px;
+}
+.invoice-container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+.invoice-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.invoice-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2d3e50;
+}
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4A90E2;
+    margin-top: 20px;
+    border-bottom: 2px solid #4A90E2;
+    padding-bottom: 10px;
+}
+.form-group label {
+    font-weight: bold;
+}
+.invoice-output {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+.invoice-output .invoice-header {
+    text-align: left;
+    margin-bottom: 15px;
+}
+.invoice-details {
+    margin-top: 30px;
+    font-size: 16px;
+}
+.invoice-footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #aaa;
+}
+.btn-success {
+    margin-top: 20px;
+}
+.logo {
+    max-height: 100px;
+    margin-bottom: 10px;
+}
+.details-table th,
+.details-table td {
+    padding: 8px 15px;
+    text-align: left;
+}
+.details-table th {
+    background-color: #f4f4f4;
+}
+.item-section {
+    margin-top: 30px;
+}
+.item-entry {
+    margin-bottom: 10px;
+}
